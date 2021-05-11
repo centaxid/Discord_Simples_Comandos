@@ -3,7 +3,7 @@ comandos simples para bots de interaçoes em javascript.
 
 
 
-> Comando nessesite do module.
+> Comando necessite do modulee o discordjs.
 
 
 ## 💻 Pré-requisitos
